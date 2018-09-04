@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@progress/kendo-datasource-vue-wrapper": "^2018.2.620",
+    "@progress/kendo-grid-vue-wrapper": "^2018.2.620",
+    "@progress/kendo-theme-default": "^2.55.0",
+    "@progress/kendo-ui": "^2018.2.822",
     "vue": "^2.5.17"
   },
   "devDependencies": {
